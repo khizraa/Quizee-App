@@ -1,0 +1,43 @@
+.cnav {
+  background-color: #6a0dad;
+}
+
+.mt-6 {
+  margin-top: 120px;
+}
+
+.custom-input {
+  width: 800px;
+  font-size: 20px;
+  padding: 5px;
+  border: none;
+  border-radius: 7px;
+}
+
+.bg-purple-blue {
+  background-color: #6a0dad ;color: white;
+  
+}
+
+.bg-purple-blue:hover{
+  background-color: #4a0777;
+  color: white;
+  
+}
+
+.text-purple{
+  color: #6a0dad;
+}
+.light-purple{color: #bf86e7;}
+
+.sbutton{color: #6a0dad;}
+
+.sbutton:hover{
+  
+  color: #6a0dad;
+}
+
+input:focus {
+  outline: none;
+   
+}
